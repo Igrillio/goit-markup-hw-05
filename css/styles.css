@@ -293,6 +293,14 @@ margin-bottom: 16px;
     height: 100%;
     background: rgba(47, 48, 58, 0.8);
 }
+.business-text-box {
+    position: absolute;
+    width: 100%;
+    left: 0;
+    bottom: 0;
+    padding: 27px;
+    background-color: rgba(0, 0, 0, 0.5);
+}
 .business-text {
     font-family: 'Roboto', sans-serif;
     font-weight: 700;
